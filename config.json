@@ -1,0 +1,12 @@
+{
+  "bind": "0.0.0.0",
+  "port": "8088",
+  "route": "/sendinfo",
+  "wecom": {
+    "agentid": "1000002",
+    "secret": "cJPPi3Ip2_Tj5PLS5XKigcjb04QMjij9CNrv3UFokA0",
+    "cropid": "wwaeff5ad91fc4be89",
+    "touser": "@all",
+    "toparty": 1
+  }
+}
